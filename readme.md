@@ -19,4 +19,7 @@
 
 #
 StackForce轻量级机器人开发平台官网：http://stackforce.cc/#/  
-开源技术交流Q群：223211857
+
+#
+wiki: https://wiki.seeedstudio.com/StackForce_Mini_Wheeled_Legged_Robot
+
